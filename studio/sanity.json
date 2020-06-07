@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "__stackbit_sanity_project_name__"
+    "name": "nervous-yam-d2c76"
   },
   "api": {
-    "projectId": "__stackbit_sanity_project_id__",
+    "projectId": "seooebtm",
     "dataset": "production"
   },
   "plugins": [
